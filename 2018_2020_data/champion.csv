@@ -1,4 +1,4 @@
-﻿SPLIT,SEASON, Champion ,picks,bans,presence,avg bt,wins,losses,winrate,KDA,GT,CSM,DPM,CSD-15MIN
+SPLIT,SEASON,Champion,picks,bans,presence,avg bt,wins,losses,winrate,KDA,GT,CSM,DPM,CSD-15MIN
 SPRING,S8,Ryze Ryze,814,973,83%,4.4,379,435,47%,3.6,34:58:00,10,461,2.5
 SPRING,S8,Camille Camille,490,1188,78%,4.5,272,218,56%,2.6,34:16:00,8.2,393,-1.6
 SPRING,S8,Braum Braum,1027,574,74%,7.3,511,516,50%,3.5,35:32:00,2.2,152,6.5
